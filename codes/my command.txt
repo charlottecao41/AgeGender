@@ -1,0 +1,13 @@
+nohup python3 original_output.py > original_report.out
+nohup python3 one_conv_less.py > one_conv_less_report.out
+nohup python3 reduced_both.py > reduced_both_report.out
+nohup python3 gender_minimalist_output.py > gender_min_report.out
+
+nohup python3 age_gender_split.py > split_report.out
+nohup python3 age_gender_output.py > age_gender_report.out
+nohup python3 gender_with_new_age_encode.py > gender_with_new_age_encode_report.out
+
+nohup python3 celeba_output.py > celeba_report.out
+nohup python3 pretrained_on_adience.py > pretrained_report.out
+
+nohup python3 original_output.py > original_report_20_epochs.out
