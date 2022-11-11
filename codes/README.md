@@ -1,5 +1,5 @@
 # Content
-1. Place test.json, train.json, and valid.json under 'aligned' folder. 
+1. Place test.json, train.json, and valid.json under 'aligned' folder. The rest of that folder should be Adience's inner folders, such as 7153718@N04.
 2. Change the PATH on aggender_dataset.py to the one leading to your 'aligned' folder.
     e.g. PATH = '/home/jupyter/shared/aligned/'
 3. Select a model that you want to train, and find its python file:
