@@ -29,3 +29,6 @@
 1. Place CELEBA into a folder. Rename the attribute file as attr.txt, the partition file as partition.txt
 2. Copy the folder path to celeba_output.py, replace img_folder. e.g. img_folder = f'/home/jupyter/shared/celeba', where inside celeba you can find img_align_celeba, attr.txt and partition.txt.
 3. Run "nohup python3 celeba_output.py > celeba_report.out"
+
+#Trained Models
+Since github does not allow me upload files > 25 mb, I will place the models in my google drive. Just replace the respective model folders.
