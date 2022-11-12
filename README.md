@@ -72,8 +72,3 @@ Warning: doing so will replace the already-trained model under the respective mo
 
 6. See your report at the .out file. The graphs can be found in the graph folder, and the trained model under its respective folder.
 
-
-# For ResNet 34:
-1. Install tensorflow.
-
-2. Run the notebooks found under notebook folder. The saved models are under notebook_saved_models.
