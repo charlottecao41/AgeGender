@@ -1,5 +1,6 @@
 # Important! If you just want to read the reports:
 1. Open the "report" folder. All the .out files are reports for different models based on caffe. 
+
     a. Original caffe model, trained 10 epochs and 20 epochs each: original_report_10_epochs.out and original_report_20_epochs.out
     
     b. Removed the third convolutional layer from orginal: one_conv_less_report.out
